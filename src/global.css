@@ -1,0 +1,7 @@
+::-webkit-scrollbar{
+  width:0;
+}
+
+button, input, textarea, label, select{
+  outline:none
+}
